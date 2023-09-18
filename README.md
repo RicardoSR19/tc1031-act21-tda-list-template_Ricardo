@@ -6,7 +6,7 @@ En este repositorio encontrarás el archivo "list.h" que deberás modificar para
 ```
 // =========================================================
 // File: list.h
-// Author: Edward Elric - A00123456
+// Author: Ricardo Sierra Roa - A01709887
 // Date: 01/01/2021
 // =========================================================
 ```
