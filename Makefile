@@ -1,6 +1,6 @@
 all: clean runTest1 runTest2 runTest3 runTest4
 
-runTest1:
+runTest1: 
 	g++ -std=c++11 test1.cpp -o runTest1
 
 runTest2:

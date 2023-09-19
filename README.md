@@ -7,7 +7,7 @@ En este repositorio encontrarás el archivo "list.h" que deberás modificar para
 // =========================================================
 // File: list.h
 // Author: Ricardo Sierra Roa - A01709887
-// Date: 18/09/2023
+// Date: 19/09/2023
 // =========================================================
 ```
 
